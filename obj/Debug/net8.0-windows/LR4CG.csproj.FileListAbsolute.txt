@@ -1,0 +1,16 @@
+C:\Users\super\source\repos\LR4CG\LR4CG\bin\Debug\net8.0-windows\LR4CG.exe
+C:\Users\super\source\repos\LR4CG\LR4CG\bin\Debug\net8.0-windows\LR4CG.deps.json
+C:\Users\super\source\repos\LR4CG\LR4CG\bin\Debug\net8.0-windows\LR4CG.runtimeconfig.json
+C:\Users\super\source\repos\LR4CG\LR4CG\bin\Debug\net8.0-windows\LR4CG.dll
+C:\Users\super\source\repos\LR4CG\LR4CG\bin\Debug\net8.0-windows\LR4CG.pdb
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\LR4CG.Form1.resources
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\LR4CG.csproj.GenerateResource.cache
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\LR4CG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\LR4CG.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\LR4CG.AssemblyInfo.cs
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\LR4CG.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\LR4CG.dll
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\refint\LR4CG.dll
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\LR4CG.pdb
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\LR4CG.genruntimeconfig.cache
+C:\Users\super\source\repos\LR4CG\LR4CG\obj\Debug\net8.0-windows\ref\LR4CG.dll
